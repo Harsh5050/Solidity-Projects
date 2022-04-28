@@ -10,14 +10,14 @@ STEP 3 - DEFINE THE FUNCTIONS & CONTRACTS & START MAPPING
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/85873507/165717137-359d369c-0228-441b-a3f2-cedf7fb3aea3.png">
 
 STEP 4 - COMPILE AND CHECK TO SEE IF THERE IS ANY ERROR OR NOT
-<img width="620" alt="image" src="https://user-images.githubusercontent.com/85873507/165717378-29a0fdc2-f6f1-4796-88ce-5b359e4cc0b2.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85873507/165717378-29a0fdc2-f6f1-4796-88ce-5b359e4cc0b2.png">
 
 STEP 5 - DEPLOY TO SEE IF THE CONTRACT CODE IS WORKING OR NOT
-<img width="614" alt="image" src="https://user-images.githubusercontent.com/85873507/165717658-c1b75e1d-7008-467d-a02b-3e4621dc1f1c.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85873507/165717658-c1b75e1d-7008-467d-a02b-3e4621dc1f1c.png">
 
 STEP 6 - FINISH WRITING THE CODE AND SHARE IT WITH YOUR FRIENDS 
-![image](https://user-images.githubusercontent.com/85873507/165718014-f71758ce-ccb4-4a8f-878f-6e5d41c794be.png)
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[image](https://user-images.githubusercontent.com/85873507/165718014-f71758ce-ccb4-4a8f-878f-6e5d41c794be.png)
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                                                                   PROJECT SUMMARY:
 IN THIS SMART CONTRACT THERE IS A MANAGER WHO KEEPS TRACK OF ALL THE TRANSACTIONS THAT ARE TAKING PLACE OR VOTES THAT ARE HAPPENING...
   THE FUNCTIONS THAT I HAVE DEFINED IN MY CONTRACT ARE - 
