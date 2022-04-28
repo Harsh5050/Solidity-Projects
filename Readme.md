@@ -25,20 +25,35 @@ The functions that i have defined in my contract are -
  
  
  1 - createRequests
+ 
  2 - makePayment
+ 
  3 - refund
+ 
  4 - sendEth
+ 
  5 - voteRequest
+ 
  6 - contributors
+ 
  7 - deadline
+ 
  8 - getContractBalance
+ 
  9 - manager
+ 
  10 - minimumContract
+ 
  11 - noOfContributors
+ 
  12 - numRequests
+ 
  13 - raisedAmount
+ 
  14 - requests
+ 
  15 - target
+ 
  
 YOU COULD TRY OUT MY CONTRACT BY COPY-PASTING THE CODE IN MY GITHUB REPOSITORY IN OUR IDE.....
                                                                THANK YOU SO MUCH!!
