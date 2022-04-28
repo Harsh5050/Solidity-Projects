@@ -4,10 +4,10 @@ STEP 1 - Open VS CODE or https://remix.ethereum.org to start coding
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/85873507/165716395-e146201a-a4cf-4a64-bfa6-96565b67d0c4.png">
 
 STEP 2 - DEFINE THE SOLIDITY VERSION - pragma solidity x.y.z
-<img width="236" alt="image" src="https://user-images.githubusercontent.com/85873507/165716659-812dca1c-6ef5-4c62-a5d0-cfcff0960966.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85873507/165716659-812dca1c-6ef5-4c62-a5d0-cfcff0960966.png">
 
 STEP 3 - DEFINE THE FUNCTIONS & CONTRACTS & START MAPPING 
-<img width="321" alt="image" src="https://user-images.githubusercontent.com/85873507/165717137-359d369c-0228-441b-a3f2-cedf7fb3aea3.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85873507/165717137-359d369c-0228-441b-a3f2-cedf7fb3aea3.png">
 
 STEP 4 - COMPILE AND CHECK TO SEE IF THERE IS ANY ERROR OR NOT
 <img width="620" alt="image" src="https://user-images.githubusercontent.com/85873507/165717378-29a0fdc2-f6f1-4796-88ce-5b359e4cc0b2.png">
