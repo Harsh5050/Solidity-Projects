@@ -20,6 +20,7 @@ STEP 6 - FINISH WRITING THE CODE AND SHARE IT WITH YOUR FRIENDS
 
                                                                     PROJECT SUMMARY:
 In this smart contract there is a manager who keeps track of all the transactions that are taking place or votes that are happening...
+
 The functions that i have defined in my contract are - 
  1 - createRequests
  2 - makePayment
