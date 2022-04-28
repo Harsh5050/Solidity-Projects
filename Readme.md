@@ -19,8 +19,8 @@ STEP 6 - FINISH WRITING THE CODE AND SHARE IT WITH YOUR FRIENDS
 <img width="500" alt="image" align=center src="https://user-images.githubusercontent.com/85873507/165718014-f71758ce-ccb4-4a8f-878f-6e5d41c794be.png">
 
                                                                     PROJECT SUMMARY:
-IN THIS SMART CONTRACT THERE IS A MANAGER WHO KEEPS TRACK OF ALL THE TRANSACTIONS THAT ARE TAKING PLACE OR VOTES THAT ARE HAPPENING...
-  THE FUNCTIONS THAT I HAVE DEFINED IN MY CONTRACT ARE - 
+In this smart contract there is a manager who keeps track of all the transactions that are taking place or votes that are happening...
+The functions that i have defined in my contract are - 
  1 - createRequests
  2 - makePayment
  3 - refund
