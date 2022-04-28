@@ -1,5 +1,7 @@
 Hello Guys, This is the Readme file for my Crowdfunding Project that I made using Solidity
 
+So basically this project is made to collect the funds or votes of people <> voting system... So please enjoy the tutorial...
+
 STEP 1 - Open VS CODE or https://remix.ethereum.org to start coding
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/85873507/165716395-e146201a-a4cf-4a64-bfa6-96565b67d0c4.png">
 
