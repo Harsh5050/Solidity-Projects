@@ -55,5 +55,7 @@ The functions that i have defined in my contract are -
  15 - target
  
  
-YOU COULD TRY OUT MY CONTRACT BY COPY-PASTING THE CODE IN MY GITHUB REPOSITORY IN OUR IDE.....
-                                                               THANK YOU SO MUCH!!
+You could try out my contract by copy-pasting the code in my GitHub repository in our IDE.....
+                                                              
+                                                           
+                                                           THANK YOU SO MUCH!!
